@@ -1,6 +1,6 @@
-# Webpack Starter
+# JavaScript http
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+Se explica como hacer peticiones fetch.
 
 ### Notas:
 Recuerda construir los módulos de Node
